@@ -1,0 +1,8 @@
+{
+  "comparison": "strict_v2 versus preserved legacy_v1 rasterization on identical labels",
+  "reference_g_defined_fields": 79,
+  "reference_g_changed_fields": 0,
+  "prediction_max_absolute_g_change": 0.000197,
+  "prediction_fields_with_absolute_g_change_below_2e-4": 79,
+  "interpretation": "The conservative strict_v2 boundary-pixel rule had a negligible numerical effect on the final G results."
+}

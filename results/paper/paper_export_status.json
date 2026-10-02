@@ -1,0 +1,11 @@
+{
+  "source_run": "results/evaluation",
+  "source_integrity_sha256": "27c00e0b2853eeeca047963286f7a4015fc307c9b3a788acb21e3913cb141eb1",
+  "synthetic_only": false,
+  "status": "software_checks_passed_author_review_required",
+  "submission_ready": false,
+  "issues": [],
+  "notice": "No automatic submission certification. Confirm physical specimens/ROI, final reference and rasterization, fair model training, data permissions, and all author queries in the revised manuscript.",
+  "n_fields": 82,
+  "n_specimens": 69
+}

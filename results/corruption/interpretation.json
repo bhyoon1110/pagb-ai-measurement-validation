@@ -1,0 +1,8 @@
+{
+  "reference_status": "Author-defined annotation, not physical ground truth.",
+  "selection_controls": "Random/size-biased object erasure is not a realistic model of a broken neural boundary. It distinguishes selection from topological errors.",
+  "repetition_unit": "Multiple interventions on the same field are NOT independent experimental fields.",
+  "realized_operations": "Adjacency/geometry may prevent reaching requested strength; use realized counts.",
+  "n_actual_fields": 82,
+  "n_actual_specimens": 69
+}

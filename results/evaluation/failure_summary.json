@@ -1,0 +1,10 @@
+{
+  "n_total": 82,
+  "both_defined": 78,
+  "reference_only_undefined": 3,
+  "prediction_only_undefined": 1,
+  "both_undefined": 0,
+  "prediction_undefined_total": 1,
+  "reference_undefined_total": 3,
+  "excluded_from_paired_g": 4
+}

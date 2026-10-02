@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or aggregate result archive, please cite the associated manuscript and this repository."
+title: "PAGB AI measurement validation"
+type: software
+version: 1.0.0
+date-released: 2026-10-02
+url: "https://github.com/bhyoon1110/pagb-ai-measurement-validation"
+repository-code: "https://github.com/bhyoon1110/pagb-ai-measurement-validation"
+authors:
+  - family-names: Yoon
+    given-names: Byungjun
+  - family-names: Yeo
+    given-names: Taehyeong
+  - family-names: Lee
+    given-names: Donggil
+  - family-names: Jo
+    given-names: Gyujin
+  - family-names: Yoon
+    given-names: Byeonghoon
+keywords:
+  - prior austenite grain boundary
+  - planimetric grain size
+  - segmentation validation
+  - provenance
+  - deep learning

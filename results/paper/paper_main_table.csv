@@ -1,0 +1,15 @@
+﻿metric,estimate,lower_95,upper_95,defined_bootstrap_replicates,n_all_fields,n_G_pairs,source,synthetic_only
+g_mae,0.5095023766789295,0.35540640842547744,0.7039073957723176,2000,82,78,summary.json + bootstrap_ci.json,False
+g_rmse,0.9083355541124043,0.5196113633185417,1.3221784331097837,2000,82,78,summary.json + bootstrap_ci.json,False
+g_bias,0.20291578802348045,0.008817333108780797,0.43243771447620843,2000,82,78,summary.json + bootstrap_ci.json,False
+instance_f1_micro,0.543831458668095,0.516450032935033,0.5700553904579061,2000,82,78,summary.json + bootstrap_ci.json,False
+instance_f1_field_mean,0.49064021748081954,0.456902864506096,0.526836398271877,2000,82,78,summary.json + bootstrap_ci.json,False
+pooled_count_ratio,0.6560758082497213,0.6065807380276388,0.7093489840202589,2000,82,78,summary.json + bootstrap_ci.json,False
+pred_measured_area_fraction_roi_mean,0.32736651573702846,0.28148057413750993,0.37768614324572075,2000,82,78,summary.json + bootstrap_ci.json,False
+reference_measured_area_fraction_roi_mean,0.5201927807513246,0.44341138022883764,0.5946459684303486,2000,82,78,summary.json + bootstrap_ci.json,False
+pred_measured_area_fraction_frame_mean,0.19511808727179122,0.16331367311107392,0.2299760028608397,2000,82,78,summary.json + bootstrap_ci.json,False
+reference_measured_area_fraction_frame_mean,0.3034136994508129,0.25487989243143405,0.35329188225875235,2000,82,78,summary.json + bootstrap_ci.json,False
+geometric_mean_size_ratio,0.9320906032923097,0.8608185897388515,0.9969488115989743,2000,82,78,summary.json + bootstrap_ci.json,False
+median_absolute_size_deviation,0.09353828051660096,0.057479201953256065,0.1535602171142556,2000,82,78,summary.json + bootstrap_ci.json,False
+area_count_slope,0.9695967684531525,0.6084950491224438,1.2964094180800039,2000,82,78,summary.json + bootstrap_ci.json,False
+prediction_undefined_rate,0.012195121951219513,0.0,0.03896103896103896,2000,82,78,summary.json + bootstrap_ci.json,False

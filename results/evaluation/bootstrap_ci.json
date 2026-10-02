@@ -1,0 +1,159 @@
+{
+  "method": "specimen_cluster_percentile",
+  "requested_replicates": 2000,
+  "n_specimens": 69,
+  "seed": 20260928,
+  "scope": "Fixed cached predictions; excludes retraining/seed uncertainty. Descriptive with overlapping CV training sets.",
+  "intervals": {
+    "g_mae": {
+      "estimate": 0.5095023766789295,
+      "lower_95": 0.35540640842547744,
+      "upper_95": 0.7039073957723176,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 68,
+      "status": "estimated",
+      "warning": null
+    },
+    "g_rmse": {
+      "estimate": 0.9083355541124043,
+      "lower_95": 0.5196113633185417,
+      "upper_95": 1.3221784331097837,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 68,
+      "status": "estimated",
+      "warning": null
+    },
+    "g_bias": {
+      "estimate": 0.20291578802348045,
+      "lower_95": 0.008817333108780797,
+      "upper_95": 0.43243771447620843,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 68,
+      "status": "estimated",
+      "warning": null
+    },
+    "instance_f1_field_mean": {
+      "estimate": 0.49064021748081954,
+      "lower_95": 0.456902864506096,
+      "upper_95": 0.526836398271877,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 69,
+      "status": "estimated",
+      "warning": null
+    },
+    "instance_f1_micro": {
+      "estimate": 0.543831458668095,
+      "lower_95": 0.516450032935033,
+      "upper_95": 0.5700553904579061,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 69,
+      "status": "estimated",
+      "warning": null
+    },
+    "pooled_count_ratio": {
+      "estimate": 0.6560758082497213,
+      "lower_95": 0.6065807380276388,
+      "upper_95": 0.7093489840202589,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 69,
+      "status": "estimated",
+      "warning": null
+    },
+    "pred_measured_area_fraction_roi_mean": {
+      "estimate": 0.32736651573702846,
+      "lower_95": 0.28148057413750993,
+      "upper_95": 0.37768614324572075,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 69,
+      "status": "estimated",
+      "warning": null
+    },
+    "reference_measured_area_fraction_roi_mean": {
+      "estimate": 0.5201927807513246,
+      "lower_95": 0.44341138022883764,
+      "upper_95": 0.5946459684303486,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 69,
+      "status": "estimated",
+      "warning": null
+    },
+    "pred_measured_area_fraction_frame_mean": {
+      "estimate": 0.19511808727179122,
+      "lower_95": 0.16331367311107392,
+      "upper_95": 0.2299760028608397,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 69,
+      "status": "estimated",
+      "warning": null
+    },
+    "reference_measured_area_fraction_frame_mean": {
+      "estimate": 0.3034136994508129,
+      "lower_95": 0.25487989243143405,
+      "upper_95": 0.35329188225875235,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 69,
+      "status": "estimated",
+      "warning": null
+    },
+    "geometric_mean_size_ratio": {
+      "estimate": 0.9320906032923097,
+      "lower_95": 0.8608185897388515,
+      "upper_95": 0.9969488115989743,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 68,
+      "status": "estimated",
+      "warning": null
+    },
+    "median_absolute_size_deviation": {
+      "estimate": 0.09353828051660096,
+      "lower_95": 0.057479201953256065,
+      "upper_95": 0.1535602171142556,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 68,
+      "status": "estimated",
+      "warning": null
+    },
+    "area_count_slope": {
+      "estimate": 0.9695967684531525,
+      "lower_95": 0.6084950491224438,
+      "upper_95": 1.2964094180800039,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 68,
+      "status": "estimated",
+      "warning": null
+    },
+    "area_count_intercept": {
+      "estimate": -0.1542636975183504,
+      "lower_95": -0.3293836540497158,
+      "upper_95": 0.0034483879940167238,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 68,
+      "status": "estimated",
+      "warning": null
+    },
+    "prediction_undefined_rate": {
+      "estimate": 0.012195121951219513,
+      "lower_95": 0.0,
+      "upper_95": 0.03896103896103896,
+      "defined_replicates": 2000,
+      "defined_fraction": 1.0,
+      "contributing_specimens": 69,
+      "status": "estimated",
+      "warning": null
+    }
+  }
+}

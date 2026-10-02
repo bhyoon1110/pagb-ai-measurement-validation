@@ -1,0 +1,5 @@
+{
+  "n_fields": 82,
+  "n_different": 82,
+  "note": "Different cached or inner-selected labels are not the fixed-setting sweep baseline. Use --prediction-source probability for the fixed-setting comparison. Selected settings may intentionally differ."
+}

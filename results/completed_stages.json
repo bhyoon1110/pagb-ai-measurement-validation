@@ -1,0 +1,53 @@
+{
+  "evaluation": {
+    "n_total": 82,
+    "both_defined": 78,
+    "reference_only_undefined": 3,
+    "prediction_only_undefined": 1,
+    "both_undefined": 0,
+    "prediction_undefined_total": 1,
+    "reference_undefined_total": 3,
+    "excluded_from_paired_g": 4,
+    "n_specimens": 69,
+    "n_unique_fields": 82,
+    "g_mae": 0.5095023766789295,
+    "g_rmse": 0.9083355541124043,
+    "g_bias": 0.20291578802348045,
+    "g_mae_specimen_macro_descriptive": 0.4688594842653632,
+    "instance_f1_field_mean": 0.49064021748081954,
+    "instance_f1_micro": 0.543831458668095,
+    "instance_precision_micro": 0.490736265506686,
+    "instance_recall_micro": 0.6098098098098098,
+    "pred_count_total": 2354.0,
+    "reference_count_total": 3588.0,
+    "pooled_count_ratio": 0.6560758082497213,
+    "pred_measured_area_fraction_roi_mean": 0.32736651573702846,
+    "reference_measured_area_fraction_roi_mean": 0.5201927807513246,
+    "pred_measured_area_fraction_frame_mean": 0.19511808727179122,
+    "reference_measured_area_fraction_frame_mean": 0.3034136994508129,
+    "geometric_mean_size_ratio": 0.9320906032923097,
+    "median_absolute_size_deviation": 0.09353828051660096,
+    "minimum_size_ratio": 0.1455263393962791,
+    "maximum_size_ratio": 1.5378337509162527,
+    "area_count_slope": 0.9695967684531525,
+    "area_count_slope_ols_se_not_cluster_ci": 0.155617427602964,
+    "area_count_intercept": -0.1542636975183504,
+    "area_count_r2": 0.3380997282957332,
+    "n_area_count_pairs": 78,
+    "prediction_undefined_rate": 0.012195121951219513
+  },
+  "sweep": {
+    "n_fields": 82,
+    "n_settings": 19,
+    "n_common_g_fields": 60
+  },
+  "corruption": {
+    "n_actual_fields": 82,
+    "n_intervention_records": 24600
+  },
+  "baseline_consistency": {
+    "n_fields": 82,
+    "n_different": 82,
+    "note": "Different cached or inner-selected labels are not the fixed-setting sweep baseline. Use --prediction-source probability for the fixed-setting comparison. Selected settings may intentionally differ."
+  }
+}

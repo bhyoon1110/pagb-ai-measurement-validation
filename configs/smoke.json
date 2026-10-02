@@ -1,0 +1,21 @@
+{
+  "bootstrap_replicates": 100,
+  "thresholds": [
+    0.4,
+    0.55,
+    0.7
+  ],
+  "sweep_min_distances": [
+    6,
+    10
+  ],
+  "sweep_min_grain_areas": [
+    20,
+    80
+  ],
+  "corruption_strengths": [
+    0,
+    0.5
+  ],
+  "corruption_repeats": 2
+}
