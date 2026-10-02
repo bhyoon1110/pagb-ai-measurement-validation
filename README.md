@@ -88,6 +88,8 @@ Use [`CITATION.cff`](CITATION.cff), or cite the associated manuscript and this r
 
 `https://github.com/bhyoon1110/pagb-ai-measurement-validation`
 
+The manuscript-linked snapshot is archived as [release v1.0.0](https://github.com/bhyoon1110/pagb-ai-measurement-validation/releases/tag/v1.0.0).
+
 ## License
 
 The source code is released under the [MIT License](LICENSE). Aggregate result tables, non-identifying provenance summaries, and figures under `results/` and `provenance/` are released under [CC BY 4.0](LICENSE-DATA). Restricted research data are not distributed and are outside these licenses.
